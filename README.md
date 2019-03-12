@@ -12,13 +12,13 @@
 - git push                     后续版本迭代是提交远程仓库
 ### 版本回退
 
-git log                      查看历史纪录
-git log –pretty=oneline      以一行显示历史纪录
-git reset  --hard HEAD^      回退到上一个版本
-git reset  --hard HEAD^^     回退到上上一个版本
-git reset  --hard HEAD~n     回退到前n个版本
-git reflog                   获取版本号
-git reset  --hard 6fcfc89    以版本号恢复被回退的版本
+- git log                      查看历史纪录
+- git log –pretty=oneline      以一行显示历史纪录
+- git reset  --hard HEAD^      回退到上一个版本
+- git reset  --hard HEAD^^     回退到上上一个版本
+- git reset  --hard HEAD~n     回退到前n个版本
+- git reflog                   获取版本号
+- git reset  --hard 6fcfc89    以版本号恢复被回退的版本
 ### 本地仓库与远程仓库实现同步
 
-ssh-keygen -t rsa -C "youremail@example.com"    生成密钥文件
+- ssh-keygen -t rsa -C "youremail@example.com"    生成密钥文件
