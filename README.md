@@ -4,12 +4,12 @@
 + git init                     将当前目录变成git可以管理的仓库
 + git add fileName             将该文件添加到暂存区中
 + git commit -m 'Tips'         将文件提交到仓库中
-git status                   查看是否还有文件未提交
-git diff fileName            查看文件前后的变化
-git fetch origin             从主分支拉下最新版本
-git merge origin/master      将本地最新版本合并到主分支
-git push -u origin master    第一次远程提交时
-git push                     后续版本迭代是提交远程仓库
+- git status                   查看是否还有文件未提交
+- git diff fileName            查看文件前后的变化
+- git fetch origin             从主分支拉下最新版本
+- git merge origin/master      将本地最新版本合并到主分支
+- git push -u origin master    第一次远程提交时
+- git push                     后续版本迭代是提交远程仓库
 ### 版本回退
 
 git log                      查看历史纪录
