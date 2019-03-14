@@ -22,4 +22,7 @@
 ### 本地仓库与远程仓库实现同步
 
 - ssh-keygen -t rsa -C "youremail@example.com"    生成密钥文件
---git remote -v                                   查看现有的远程仓库
+- git remote -v                                   查看现有的远程仓库
+- git remote [仓库名]
+- git pull --rebase origin                        拉取远程仓库的文件
+
