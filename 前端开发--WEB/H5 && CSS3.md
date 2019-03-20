@@ -388,7 +388,7 @@ transform:  rotate3d(0,1,0, 1turn)		#设置3D旋转
 }
 ```
 
-#### 挂在动画
+#### 挂载动画
 
 ```css
 div{
