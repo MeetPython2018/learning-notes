@@ -299,7 +299,7 @@ var++      # ++在后时，先使用var的值再自增
           case "值1"：语句1；break;
           case "值2"：语句2；break;
           case "值3"：语句3；break;
-          case "值3"：语句3；break;
+          case "值4"：语句4；break;
           ...
       default:语句；
   }
