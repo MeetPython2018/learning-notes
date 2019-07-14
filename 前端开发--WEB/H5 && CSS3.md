@@ -104,7 +104,7 @@ HTML，超文本标记语言（英语：HyperText Markup Language，简称：HTM
 #### 音频/视频标签
 
 - <audio src="" controls loop></audio>
-  - controls:控件想用户显示
+  - controls:控件向用户显示
   - loop:循环播放
   - autoplay:页面加载完后自动播放
 - <video src="" controls loop autoplay></video>
@@ -154,7 +154,7 @@ div{
 }
 ```
 
-- 后代选择器  E1 E1{}
+- 后代选择器  E1 E2{}
 
 ```css
 .bigbox .smallbox{
