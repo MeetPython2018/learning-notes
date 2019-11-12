@@ -496,7 +496,7 @@ display: inline-block;
 > border的用法
 
 ```css
-border：1px solid red
+border：1px solid red         /* 1像素红色的实线边框，虚线为dashed */
 border-top\border-right\border-bottom\border-right
 ```
 
