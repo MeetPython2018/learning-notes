@@ -1,7 +1,7 @@
 # learning-notes
 ### 使用git进行版本控制
 
-- git init                     将当前目录变成git可以管理的仓库
+- git init                     将当前目录变成git可以管理的本地仓库
 - git add fileName             将该文件添加到暂存区中
 - git commit -m 'Tips'         将文件提交到仓库中
 - git status                   查看是否还有文件未提交
